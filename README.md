@@ -86,18 +86,6 @@ The build pipeline produces a **zero‑dependency iframe bundle** located in `di
 
 ---
 
-## 🔧 Configuration
-
-|  Variable                      | Description                                   |
-| ------------------------------ | --------------------------------------------- |
-| `VITE_API_URL`                 | Base URL of the Chat‑Craft backend gateway    |
-| `VITE_AUTH_TOKEN`              | JWT or API token issued by your IdP           |
-| `VITE_IFRAME_ORIGIN_WHITELIST` | Comma‑separated list of allowed embed domains |
-
-See `.env.example` for the full list.
-
----
-
 
 ## 🧑‍💻 Contributing
 
